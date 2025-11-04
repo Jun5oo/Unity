@@ -25,8 +25,8 @@ MonoBehaviour:
   speed: 0
   statusRange:
     attackRange: {x: 0, y: 0}
-    defenseRange: {x: 0, y: 0}
-    hpRange: {x: 0, y: 0}
+    defenseRange: {x: 0, y: 10}
+    hpRange: {x: 0, y: 10}
     mpRange: {x: 0, y: 0}
     speedRange: {x: 0, y: 0}
   armorType: 0
